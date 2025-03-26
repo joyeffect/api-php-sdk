@@ -4,7 +4,7 @@ namespace Cryptomus\Api;
 
 final class RequestBuilder
 {
-    const API_URL = "https://api.cryptomus.com/";
+    const API_URL = "https://api.heleket.com/";
 
     /**
      * @var string
